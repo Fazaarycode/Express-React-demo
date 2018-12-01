@@ -1,0 +1,21 @@
+ul{
+
+	list-style: none;
+	padding: 4px;
+	margin:  10px;
+	
+	}
+
+li{
+	list-style: none;
+	padding: 4px;
+	margin:  10px;
+	text-shadow: 1px;
+	
+	color: green;
+	font-size:40px;
+	font-weight: 10px;
+
+	border-bottom: 1px dotted;
+
+}
